@@ -1,0 +1,7 @@
+Variable: es la manera que tiene que javascript de guardar o almacenar datos como si anotaras algo para tenerlo para despues y tienen siempre un nombre o valor y utiliza palabras claves como VAR o = para asignarle ese valor.
+En javascript una String serian puramente palabras o definiciones de textos que una vez invocadas siempre tiene que ir entre comillas para indentificarlas.
+Una funcion agrupa codigo, lo guarda y se lo puede ejecutar cuando se lo necesite.
+Argumento: seria una variable que se encuentra dentro de una funcion y pueden ser de numeros, palabras o valores y sirven para definir o resumin un codigo y que sea mas sencillo de escribir.
+Return: es una manera de indicarle a la funcion  que devuelva un resultado si es que cumple una  condicion que se le da.
+IF: Es un expresión  que sirve para tomar decisiones y realizar operaciones en función de una condicion
+Boolean:la logica booleana representa dos valores, verdadero o falso (en javascript), y dependiendo de que condicion se cumpla dara como resultado uno de ellos
